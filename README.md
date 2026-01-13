@@ -241,7 +241,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Asad Farooq**
 
 [![GitHub](https://img.shields.io/badge/GitHub-@Asad--Farooq4421-181717?style=for-the-badge&logo=github)](https://github.com/Asad-Farooq4421)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/asad-farooq](https://www.linkedin.com/in/asad-farooq-413475384/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]([[https://linkedin.com/in/asad-farooq](https://www.linkedin.com/in/asad-farooq-413475384/)](https://www.linkedin.com/in/asad-farooq-413475384/))
 
 *Data Science Enthusiast | MLOps Engineer*
 
