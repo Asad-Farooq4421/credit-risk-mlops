@@ -33,21 +33,31 @@ env/
 *.swo
 *~
 
-# Data
-data/raw/
+# Data (keep sample data for demo)
 data/processed/
-*.csv
 *.parquet
 *.feather
 *.pkl
 *.pickle
 
-# MLflow
-mlruns/
+# MLflow (keep for demo)
 mlflow.db
 
 # DVC
 .dvc/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Large files
+*.h5
+*.hdf5
+models/*.joblib
+models/*.pkl
+
+# Logs
+logs/
+*.log
 
 # Notebooks
 .ipynb_checkpoints

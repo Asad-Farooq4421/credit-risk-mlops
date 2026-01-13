@@ -1,0 +1,15 @@
+artifact_uri: file:///W:/Projects/credit-risk-mlops/mlruns/122740724003562194/ffee0c3632e54b4b8adae55ebac7815c/artifacts
+end_time: 1768215082913
+entry_point_name: ''
+experiment_id: '122740724003562194'
+lifecycle_stage: active
+run_id: ffee0c3632e54b4b8adae55ebac7815c
+run_name: test_run
+run_uuid: ffee0c3632e54b4b8adae55ebac7815c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768215082858
+status: 3
+tags: []
+user_id: south
